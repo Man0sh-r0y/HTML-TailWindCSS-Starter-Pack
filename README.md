@@ -12,7 +12,7 @@ npm run start
 
 Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
 
-## You can also install TailwindCSS by following below methods:
+## You can also install TailwindCSS by following methods:
 
 Here are the steps to install TailwindCSS
 
