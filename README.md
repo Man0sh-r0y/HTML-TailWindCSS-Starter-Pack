@@ -12,7 +12,7 @@ npm run start
 
 Facing any issue: [Documentation](https://tailwindcss.com/docs/installation/using-postcss)
 
-## You can also install TailwindCSS by following methods:
+## You can also install TailwindCSS by following methods (For Linux):
 
 At First Install [`Node.js`](https://nodejs.org/en) on Your System
 
